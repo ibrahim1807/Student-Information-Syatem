@@ -1,1 +1,1 @@
-# Student-Information-Syatem
+# Student-Information-System
